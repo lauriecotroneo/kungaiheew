@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shayerauth.liusilu.com/sitemap.xml
